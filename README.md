@@ -1,2 +1,0 @@
-# heartofasia
-Created with CodeSandbox
